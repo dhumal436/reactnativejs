@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactnativejs/static/css/main.4982f7e4.chunk.css",
-    "main.js": "/reactnativejs/static/js/main.b0f6274e.chunk.js",
-    "main.js.map": "/reactnativejs/static/js/main.b0f6274e.chunk.js.map",
+    "main.js": "/reactnativejs/static/js/main.6b696d37.chunk.js",
+    "main.js.map": "/reactnativejs/static/js/main.6b696d37.chunk.js.map",
     "runtime-main.js": "/reactnativejs/static/js/runtime-main.4fe20e8d.js",
     "runtime-main.js.map": "/reactnativejs/static/js/runtime-main.4fe20e8d.js.map",
     "static/js/2.5b2911ba.chunk.js": "/reactnativejs/static/js/2.5b2911ba.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4fe20e8d.js",
     "static/js/2.5b2911ba.chunk.js",
     "static/css/main.4982f7e4.chunk.css",
-    "static/js/main.b0f6274e.chunk.js"
+    "static/js/main.6b696d37.chunk.js"
   ]
 }
