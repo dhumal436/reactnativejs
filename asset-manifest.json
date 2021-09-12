@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/learnreactnativejs/static/css/main.4982f7e4.chunk.css",
-    "main.js": "/learnreactnativejs/static/js/main.11559b46.chunk.js",
-    "main.js.map": "/learnreactnativejs/static/js/main.11559b46.chunk.js.map",
-    "runtime-main.js": "/learnreactnativejs/static/js/runtime-main.f133ccb9.js",
-    "runtime-main.js.map": "/learnreactnativejs/static/js/runtime-main.f133ccb9.js.map",
-    "static/js/2.69be25dc.chunk.js": "/learnreactnativejs/static/js/2.69be25dc.chunk.js",
-    "static/js/2.69be25dc.chunk.js.map": "/learnreactnativejs/static/js/2.69be25dc.chunk.js.map",
-    "static/js/3.66a8e39a.chunk.js": "/learnreactnativejs/static/js/3.66a8e39a.chunk.js",
-    "static/js/3.66a8e39a.chunk.js.map": "/learnreactnativejs/static/js/3.66a8e39a.chunk.js.map",
-    "index.html": "/learnreactnativejs/index.html",
-    "static/css/main.4982f7e4.chunk.css.map": "/learnreactnativejs/static/css/main.4982f7e4.chunk.css.map",
-    "static/js/2.69be25dc.chunk.js.LICENSE.txt": "/learnreactnativejs/static/js/2.69be25dc.chunk.js.LICENSE.txt",
-    "static/media/reactnativejs.11d25c9c.png": "/learnreactnativejs/static/media/reactnativejs.11d25c9c.png"
+    "main.css": "/static/css/main.4982f7e4.chunk.css",
+    "main.js": "/static/js/main.11559b46.chunk.js",
+    "main.js.map": "/static/js/main.11559b46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d262dc2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d262dc2.js.map",
+    "static/js/2.69be25dc.chunk.js": "/static/js/2.69be25dc.chunk.js",
+    "static/js/2.69be25dc.chunk.js.map": "/static/js/2.69be25dc.chunk.js.map",
+    "static/js/3.66a8e39a.chunk.js": "/static/js/3.66a8e39a.chunk.js",
+    "static/js/3.66a8e39a.chunk.js.map": "/static/js/3.66a8e39a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4982f7e4.chunk.css.map": "/static/css/main.4982f7e4.chunk.css.map",
+    "static/js/2.69be25dc.chunk.js.LICENSE.txt": "/static/js/2.69be25dc.chunk.js.LICENSE.txt",
+    "static/media/reactnativejs.11d25c9c.png": "/static/media/reactnativejs.11d25c9c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f133ccb9.js",
+    "static/js/runtime-main.4d262dc2.js",
     "static/js/2.69be25dc.chunk.js",
     "static/css/main.4982f7e4.chunk.css",
     "static/js/main.11559b46.chunk.js"
